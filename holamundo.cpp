@@ -1,8 +1,10 @@
 #include <iostream>
 #include <string>
 using namespace std;
-int main () {
-string hola= " ";
+void hola() {
 cout << "Hola" << hola << "Mundo" << endl;
+}
+int main () {
+hola () ;
 return 0
 }
