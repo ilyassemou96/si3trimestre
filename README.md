@@ -1,3 +1,10 @@
 # si3trimestre
 Ejercicios de uso de git y github 
 #DESARROLLADO POR ELIASDAM
+#AUTOR: ILYASSE MOUTAOUAKIL 
+#DIRECCION GITHUB: HTTPS://GITHUB.COM/ILYASSEMOU96  
+
+#PROFESOR: LUIS SERRANO
+#DIRECCION: HTTPS://GITHUB.COM/CRISREX
+#ISSUE
+https://github.com/ilyassemou96/si3trimestre/issues/1#issue-739427669 
